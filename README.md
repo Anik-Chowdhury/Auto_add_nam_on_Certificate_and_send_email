@@ -4,16 +4,16 @@ This repository is having all the codes used in auto add name on certificate and
 # About the Repository?
  <br/> 
 This repository contains 6 files-<br/>
-*certificate participation.png* - It is a sample certipicate where we will add participant name.<br/>
-*sopnil exel.csv* - It contains all participant name and email id.<br/>
-*photoedit.py* - It is a python program for adding name on certificate.<br/>
-*editedpic* - This folder contains all edited certificate.<br/>
-*writecsv.py* - It is a python program for adding filename (which we will send to the participant through email) on sopnil exel.csv <br/>
-*sopnilem.py* - It is a python program for sending email(which contains name, thanks for participation and certificate) to participant.<br/>
+**certificate participation.png** - It is a sample certipicate where we will add participant name.<br/>
+**sopnil exel.csv** - It contains all participant name and email id.<br/>
+**photoedit.py** - It is a python program for adding name on certificate.<br/>
+**editedpic** - This folder contains all edited certificate.<br/>
+**writecsv.py** - It is a python program for adding filename (which we will send to the participant through email) on sopnil exel.csv <br/>
+**sopnilem.py** - It is a python program for sending email(which contains name, thanks for participation and certificate) to participant.<br/>
 
 You need to know about basic python code, json, file handling for completing this project
 # Who I am?
-Hi there, I'm **Anik Chowdhury**.<br/>
+Hi there, I'm ****Anik Chowdhury****.<br/>
 I am a second year Mechanical Engineering student at Chittagong University of Engineering and Technology, Bangladesh. Apart from that I am sessional ML and web developer. I'm passionate about learning new skll and love programming.<br/>
 <br/>
 I am open about:
