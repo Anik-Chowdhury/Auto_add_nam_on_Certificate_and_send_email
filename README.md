@@ -3,7 +3,7 @@ This repository is having all the codes used in auto add name on certificate and
 
 # About the Repository?
  <br/> 
-This repository contains 6 files-
+This repository contains 6 files-<br/>
 - certificate participation.png - It is a sample certipicate where we will add participant name.
 - sopnil exel.csv - It contains all participant name and email id.
 - photoedit.py - It is a python program for adding name on certificate.
