@@ -1,4 +1,4 @@
-# Auto_add_nam_on_Certificate_and_send_email
+# Auto_add_name_on_Certificate_and_send_email
 This repository is having all the codes used in auto add name on certificate and send email to participant. 
 
 # About the Repository?
